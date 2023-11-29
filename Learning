@@ -26,3 +26,9 @@ Video 1.3
   Pull Request - once changes have been made, a pull request can be sent to the original user. This asks for permission to pull changes from the other user, 
   back to the original main branch. 
   Push / Pull - Pushing commits to or pulling commits from anther branch
+
+Video 1.4
+  Issues - this is a place to leave a comment about a project eg. 'I've found a bug' or 'this word was mispelt' or 'Can I have this feature?'
+  Issues can only be closed by the owner of the main branch or 
+  Reference Issue number  - by adding 'fixes' in the commit description it automatically closes the issue.
+  If the hash reference is included in the issue write up then this links directly to that particular commit
