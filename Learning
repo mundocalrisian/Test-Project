@@ -22,6 +22,7 @@ Video 1.2
   Merge
 
 Video 1.3
-  Fork - having the same repo a different user account. This allows another user to experiment with the same repo without messing with the original branch
-  Pull Request
-  Push / Pull
+  Fork - having the same repo in a different user account. This allows another user to experiment with the same repo without messing with the original branch
+  Pull Request - once changes have been made, a pull request can be sent to the original user. This asks for permission to pull changes from the other user, 
+  back to the original main branch. 
+  Push / Pull - Pushing commits to or pulling commits from anther branch
