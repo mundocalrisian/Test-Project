@@ -1,2 +1,2 @@
 # Test-Project
-Testing and learning about Git
+Testing and learning about Git and GitHub
