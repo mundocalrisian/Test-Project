@@ -55,3 +55,18 @@ Video 1.6
   git push #1 #2 - where #1 is the remote (eg origin) and #2 is the branch.... 
     git push origin main
 
+Video 1.7
+  git init - turns a local folder in to a Git repository
+  commit - basically the same as save on GitHub. 
+  However, locally first you "save" the file, then you "commit" that save to the repository.
+  Add is a step that sits between and is required if you have new files. Once files are changed, they can be "added" to a staging area before being commited. 
+    This is useful when multiple files have been edited.
+  add - 
+  git add #### where #### is name of the file - this will just add that one specific file
+  git add . - adds all files
+  git commit -m "#####" - -a not needed as have added the files on previous step
+  alternatively, git commit -a - does add and commit all in one go ie. all files together
+  Before pushing to the remote, create a Repository on GitHub. Don't tick the 'initialise with README ie. just an empty folder. Then use the repositry URL
+  git remote add origin https://######
+  git push origin main
+  
