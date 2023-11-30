@@ -32,3 +32,10 @@ Video 1.4
   Issues can only be closed by the owner of the main branch or the user submitting the issue.
   Reference Issue number eg #10 - by adding 'fixes #10' in the commit description it automatically closes the issue.
   If the hash reference is included in the issue write up then this links directly to that particular commit
+
+Video 1.5
+  Using terminal commands
+  cd (change directory)
+  pwd (print working directory)
+  ls (list)
+  clear (or 
