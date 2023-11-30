@@ -32,3 +32,17 @@ Video 1.4
   Issues can only be closed by the owner of the main branch or the user submitting the issue.
   Reference Issue number eg #10 - by adding 'fixes #10' in the commit description it automatically closes the issue.
   If the hash reference is included in the issue write up then this links directly to that particular commit
+
+Video 1.6
+  Clone - taking a repositor and cloning it to your computer to work on
+  git clone ##### - where # is the repositor URL from GitHub. Clones the repository form GitHub 
+  git status - checks if there have een
+  git commit -a -m "message" - where a is for all and m stands for message
+  git config --global user.name "Your Name"
+  git config --global user.email you@example.com
+  git log
+  Push - sending to GitHub
+  Pull - receiving from GitHub ie. when someone else makes changes to GitHub
+  git remote -v (-v is verbose) - displays all the remotes assosciated with the repository
+  git push #1 #2 - where #1 is the remote (eg origin) and #2 is the branch.... git push origin master
+    will then ask for username and then password
